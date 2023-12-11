@@ -6,9 +6,14 @@ This assessment is designed to evaluate your proficiency in Python programming, 
 
 # Important Points to Note:
 
-The assessment will be tested using our internal set of test cases. Scripts must be developed in accordance with the template shared. Please use the following template to create your scripts: 📂 templates 📄 python_task_1.py 📄 python_task_2.py We've clearly outlined the interfaces of our functions, specifying the input and output data types with distinct signatures. Any deviation especially in naming conventions and providing arguments will impact the correct assessment of your work Submission structure There should be a folder named submissions in the root of your repository. This folder should contain the following:
+The assessment will be tested using our internal set of test cases. Scripts must be developed in accordance with the template shared. Please use the following template to create your scripts:
+📂 templates 
+📄 python_task_1.py 📄 python_task_2.py 
 
-📂 submissions 📄 python_task_1.py 📄 python_task_2.py 📄 excel_assessment.xlsm
+We've clearly outlined the interfaces of our functions, specifying the input and output data types with distinct signatures. Any deviation especially in naming conventions and providing arguments will impact the correct assessment of your work Submission structure There should be a folder named submissions in the root of your repository. This folder should contain the following:
+
+📂 submissions 
+📄 python_task_1.py 📄 python_task_2.py 📄 excel_assessment.xlsm
 
 # Result Submission:
 
